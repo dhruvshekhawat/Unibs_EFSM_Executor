@@ -2,7 +2,7 @@
 
 Follow the steps given below in order to complete the executor implementation in ns-3.
 
-1. Perform all the steps given on http://ns3help.blogspot.it/2014/05/installing-ns3-in-ubuntu-1210.html 
+1. Perform all the steps given on [ns-3 installation](http://ns3help.blogspot.it/2014/05/installing-ns3-in-ubuntu-1210.html )
 to install ns-3.19.
 2. After properly installing ns-3.19, replace the following files from your ns-3 package with the files given in this repository-
 - tcp-socket-base.h (in ns-allinone-3.19/ns-3.19/build/ns3 and ns-allinone-3.19/ns-3.19/src/internet/model)
@@ -23,3 +23,9 @@ to install ns-3.19.
 and the tcp-tahoe.cc files. 
 8. ./waf
 9. If ns-3 builds successfully, it is done.
+
+
+You can also get the entire repository with the added patch from: [Full ns-3](). Compile it using the steps given on [ns-3 installation](http://ns3help.blogspot.it/2014/05/installing-ns3-in-ubuntu-1210.html )
+
+
+For a detailed explanation of the project refer to - [State_Machine_Executor Report](https://drive.google.com/open?id=0B-jpEEacF1bna2xZbUctS2ZJRzQ)
