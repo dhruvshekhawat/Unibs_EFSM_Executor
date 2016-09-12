@@ -25,7 +25,7 @@ and the tcp-tahoe.cc files.
 9. If ns-3 builds successfully, it is done.
 
 
-You can also get the entire repository with the added patch from: [Full ns-3](). Compile it using the steps given on [ns-3 installation](http://ns3help.blogspot.it/2014/05/installing-ns3-in-ubuntu-1210.html )
+You can also get the entire repository with the added patch from: [Full ns-3](https://github.com/dhruvshekhawat/UniBs-State_Machine_Executor-ns3_full). Compile it using the steps given on [ns-3 installation](http://ns3help.blogspot.it/2014/05/installing-ns3-in-ubuntu-1210.html )
 
 
 For a detailed explanation of the project refer to - [State_Machine_Executor Report](https://drive.google.com/open?id=0B-jpEEacF1bna2xZbUctS2ZJRzQ)
